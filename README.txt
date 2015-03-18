@@ -1,3 +1,5 @@
+Note: Exported from Googlecode on 03/18/2015 so it wouldn't be lost.
+
 64k tinypy
 "batteries not (yet) included"
 Copyright (c) 2008 Phil Hassey
